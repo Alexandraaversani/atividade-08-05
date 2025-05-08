@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "atividade-08-05",
+    "slug": "atividade-08-05"
+  }
+}
